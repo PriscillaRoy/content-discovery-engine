@@ -1,4 +1,4 @@
-# Content Discovery Engine
+# Semantic Search Engine
 
 Embedding-based semantic search and personalized movie recommendations using FAISS + Graph + RAG,
 with production-grade serving via Gunicorn, Redis caching, Milvus vector database, Feast feature store,

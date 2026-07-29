@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "title": "Popeye Meets Sindbad the Sailor",
+    "year": 1936,
+    "genre": "Cartoon",
+    "age_range": "2-4",
+    "archive_id": "PopeyeTheSailorMeetsSindbadTheSailor_540",
+    "description": "Popeye challenges the boastful Sindbad on his island full of fantastic creatures. A classic Fleischer two-reel cartoon featuring Popeye, Olive Oyl, and Wimpy facing giant birds, sea monsters, and the mighty Sindbad himself.",
+    "calmness_score": 60,
+    "visual_stimulation": "high",
+    "audio_intensity": "medium",
+    "emotional_intensity": "low",
+    "conflict_level": "high",
+    "educational_value": "low",
+    "bedtime_friendly": false,
+    "tags": [
+      "slapstick",
+      "adventure",
+      "fantasy"
+    ],
+    "ai_summary": "Features fast-paced action and slapstick humor, but may be too intense for younger viewers"
+  }
+]
